@@ -28,7 +28,8 @@ Test the model: `python3 semantic_main.py --mode='test' --dcrf=1`
   doi		= {10.1007/978-3-030-01267-0_26},
   url		= {https://github.com/SketchyScene/SketchyScene}
 }```
-## Citation
+
+
 @inproceedings{hinz2019generating,
 title     = {Generating Multiple Objects at Spatially Distinct Locations},
 author    = {Tobias Hinz and Stefan Heinrich and Stefan Wermter},
